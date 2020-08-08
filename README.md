@@ -1,4 +1,4 @@
-# SIIT_Tema2
+# Tema2_SIIT
   Implement in java the following algorithms:  
   1. Calculate the sum of the first 100 numbers higher than 0  
   2. Display the smallest number from an array of number  
