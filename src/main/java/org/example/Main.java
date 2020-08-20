@@ -9,7 +9,10 @@ public class Main {
 
         System.out.println("Maximum digit of the number is " + Max.maximumDigit(56248));
 
-        System.out.println("Este numarul palindrom? --> " + Palindrom.checkPalindrom(1221));
+        System.out.println("Is the number a palindrom? --> " + Palindrom.checkPalindrom(1221));
+
+        System.out.println("Display all the prime numbers below the number: ");
+        Prime.displayPrimesBelow(15);
 
     }
 }
